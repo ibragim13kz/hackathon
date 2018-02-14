@@ -51,9 +51,9 @@ Register by adding your name to one of the existing applications, or add a new a
 | Ruby on Rails Stack            | latest      | Development               |                             |
 | SOGo                           | 3.2.10      | Email, Contacts, Calendar |                             |
 | Shaarli                        | 0.9.3       | Bookmarks                 |                             |
-| Taiga                          | 3.1.x       | Project Management        |                             |
+| Taiga                          | 3.1.x       | Project Management        | [ibragim13kz](https://github.com/ibragim13kz) |
 | The Lounge                     | 2.6.0       | Chat                      |                             |
-| Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen)                            |
+| Truffle                        | 4.0.4       | Development, Blockchain | [lbthomsen](https://github.com/lbthomsen) |
 | Verdaccio                      | 2.7.3       | Proxy                     |                             |
 | Wallabag                       | 2.3.2       | Blog                      |                             |
 | Wekan                          | 0.63        | Development               |                             |
